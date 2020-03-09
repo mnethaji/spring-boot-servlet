@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Spring Boot - Servlet, Filter and  Listener exam
+ ple
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: m nethaji
+Implementation-Vendor-Id: com.boraji.tutorial.springboot
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ servlet-filter-example/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
